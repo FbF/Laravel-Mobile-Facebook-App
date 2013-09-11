@@ -1,6 +1,8 @@
 {
     "name": "fbf/laravel-mobile-facebook-app",
-    "description": "",
+    "description": "A Laravel Filter for Facebook Page Tab Apps that need to work on mobile too.",
+    "keywords": ["laravel","facebook","filter","mobile"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Neil Crookes",
