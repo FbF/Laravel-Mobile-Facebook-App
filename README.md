@@ -57,5 +57,5 @@ Add your app id and secret to the published config file
 
 Register and apply the filter, add the following to app/routes.php
 
-    Route::filter('facebook', 'Fbf\LaravelMobileFacebookApp\LaravelMobileFacebookAppFilter');
+    Route::filter('facebook', 'LaravelMobileFacebookAppFilter');
     Route::when('my/routes/*', 'facebook');
