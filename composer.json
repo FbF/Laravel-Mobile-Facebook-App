@@ -1,0 +1,22 @@
+{
+    "name": "fbf/laravel-mobile-facebook-app",
+    "description": "",
+    "authors": [
+        {
+            "name": "Neil Crookes",
+            "email": "neil.crookes@fivebyfiveuk.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x",
+        "thomaswelton/laravel-facebook": "dev-master",
+        "mobiledetect/mobiledetectlib": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Fbf\\LaravelMobileFacebookApp": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
