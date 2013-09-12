@@ -34,13 +34,9 @@ neither.
 
 ## Installation
 
-Add the following to you composer.json file
+Add the library via composer
 
-    "fbf/laravel-mobile-facebook-app": "dev-master"
-
-Run
-
-    composer update
+    composer require fbf/laravel-mobile-facebook-app dev-master
 
 Add the following to app/config/app.php
 
